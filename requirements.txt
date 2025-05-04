@@ -1,0 +1,9 @@
+opencv-python
+numpy
+torch
+transformers
+open3d
+matplotlib
+pyrender
+tk
+notebook
